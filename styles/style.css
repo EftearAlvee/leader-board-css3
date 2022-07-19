@@ -172,22 +172,21 @@ hr {
 
 
 
-    .blogs,
-    {
-    display: grid;
-    grid-template-columns: repeat(1, 1fr);
-}
+    .blogs {
+        display: grid;
+        grid-template-columns: repeat(1, 1fr);
+    }
 
-.courses {
-    display: grid;
-    grid-template-columns: repeat(1, 1fr);
-}
+    .courses {
+        display: grid;
+        grid-template-columns: repeat(1, 1fr);
+    }
 
-.course-info {
-    margin-left: -90px;
-    margin-bottom: 20px;
-    margin-top: -20px;
-}
+    .course-info {
+        margin-left: -90px;
+        margin-bottom: 20px;
+        margin-top: -20px;
+    }
 
 
 }
